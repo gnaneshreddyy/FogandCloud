@@ -1,0 +1,3 @@
+pandas
+matplotlib
+boto3   # only for aws_setup.py
